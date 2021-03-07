@@ -50,6 +50,7 @@
 		F246B51625F575EA00025A68 /* GPXExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPXExampleUITests.swift; sourceTree = "<group>"; };
 		F246B51825F575EA00025A68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F246B52725F5802C00025A68 /* BellasArtesLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = BellasArtesLocation.gpx; sourceTree = "<group>"; };
+		F246B52B25F5810900025A68 /* BellasArtesWalk.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = BellasArtesWalk.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +109,7 @@
 				F246B4FF25F575E900025A68 /* LaunchScreen.storyboard */,
 				F246B50225F575E900025A68 /* Info.plist */,
 				F246B52725F5802C00025A68 /* BellasArtesLocation.gpx */,
+				F246B52B25F5810900025A68 /* BellasArtesWalk.gpx */,
 			);
 			path = GPXExample;
 			sourceTree = "<group>";

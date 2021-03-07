@@ -71,7 +71,7 @@
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "../../GPXExample/BellasArtesLocation.gpx"
+         identifier = "../../GPXExample/BellasArtesWalk.gpx"
          referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>
