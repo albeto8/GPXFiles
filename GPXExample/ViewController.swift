@@ -16,6 +16,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
 
     override func viewDidLoad() {
         manager.delegate = self
+        manager.requestAlwaysAuthorization()
         manager.requestLocation()
     }
 
